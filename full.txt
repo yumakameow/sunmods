@@ -2,4 +2,4 @@ Fucker
 YumakaTools
 NexxAutoCasino
 GetUserID
-ModulesSearcher
+ModuleSearcher
