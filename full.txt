@@ -3,3 +3,4 @@ YumakaTools
 NexxAutoCasino
 GetUserID
 ModuleSearcher
+ChatInfo
