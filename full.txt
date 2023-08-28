@@ -4,4 +4,4 @@ NexxAutoCasino
 GetUserID
 ModuleSearcher
 ChatInfo
-SearchPVG
+SearchPV
