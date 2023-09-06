@@ -4,3 +4,4 @@ ModuleSearcher
 ChatInfo
 PicVid
 NexxAutoCasino
+Wikipedia
