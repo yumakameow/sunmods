@@ -3,5 +3,5 @@ GetUserID
 ModuleSearcher
 ChatInfo
 PicVid
-NexxAutoCasino
 Wikipedia
+BfgTools
