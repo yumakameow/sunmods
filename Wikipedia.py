@@ -11,7 +11,7 @@ logger = logging.getLogger(__name__)
 
 @loader.tds
 class WikipediaMod(loader.Module):
-    """Search Quests via wikipedia"""
+    """Search informations via wikipedia"""
 
     strings = {
         "name": "Wikipedia",
@@ -25,7 +25,7 @@ class WikipediaMod(loader.Module):
                 "wiki_lang",
                 "en",
                 "Language of wikipedia",
-                validator=loader.validators.Choice(["en", "ru"]),
+                validator=loader.validators.Choice(["en", "ru", "uz", "de", "ml"]),
             ),
         )
 
