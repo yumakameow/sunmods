@@ -5,3 +5,4 @@ ChatInfo
 PicVid
 NexxAutoCasino
 Wikipedia
+VideoDownloader
