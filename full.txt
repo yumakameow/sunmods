@@ -6,4 +6,4 @@ PicVid
 Wikipedia
 BfgTools
 WarnMod
-BanStick
+BanSticks
