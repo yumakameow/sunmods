@@ -9,3 +9,4 @@ WarnMod
 StickBan
 InternetSpeed
 BlockUnblock
+ContactHelper
